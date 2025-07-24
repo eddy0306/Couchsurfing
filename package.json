@@ -1,0 +1,13 @@
+{
+  "name": "simple-website",
+  "version": "1.0.0",
+  "description": "A simple website with Cypress tests",
+  "scripts": {
+    "test": "cypress open",
+    "start": "npx serve"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "serve": "^14.2.1"
+  }
+}
